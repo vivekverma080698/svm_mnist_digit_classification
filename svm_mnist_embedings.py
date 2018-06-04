@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from time import time
 
-from mnist_helpers import *
+from mnist_helpers import * // showing error in this line
 
 # Import datasets, classifiers and performance metrics
 from sklearn import datasets, svm, pipeline
